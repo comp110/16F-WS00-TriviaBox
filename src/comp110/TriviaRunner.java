@@ -12,7 +12,7 @@ public class TriviaRunner {
     // TODO: call your instance's officeHoursBuilding method and print the value returned
 
     System.out.println("Number of UNC Football home games:");
-    // TODO: call your instance's uncScore method and print the value returned
+    // TODO: call your instance's homeFootballGames method and print the value returned
 
     System.out.println("On Thursday, November 10th, Dook's score will be:");
     // TODO: call your instance's dookScore method and print the value returned
